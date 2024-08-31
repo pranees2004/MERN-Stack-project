@@ -1,0 +1,21 @@
+.part1 ul li{
+    list-style: none;
+    text-align: left;
+}
+.part1 h2{
+    text-align: left;
+    
+}
+.part1 img{
+    padding-left: 20px;
+    
+}
+
+.pro{
+    margin-top: 10px;
+}
+.menulogo{
+    
+    margin-left: 20px;
+    padding-top: 5%;
+}
